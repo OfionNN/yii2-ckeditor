@@ -1,5 +1,5 @@
 {
-    "name": "OfionNN/yii2-ckeditor",
+    "name": "ofion-nn/yii2-ckeditor",
 	"version": "1.0.2",
     "keywords": ["yii", "wysiwyg", "editor", "CKEditor"],
     "description": "Yii2 CKEditor",
