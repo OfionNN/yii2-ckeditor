@@ -1,5 +1,6 @@
 {
-    "name": "mihaildev/yii2-ckeditor",
+    "name": "OfionNN/yii2-ckeditor",
+	"version": "1.1.15",
     "keywords": ["yii", "wysiwyg", "editor", "CKEditor"],
     "description": "Yii2 CKEditor",
     "homepage": "https://github.com/MihailDev/yii2-ckeditor",
